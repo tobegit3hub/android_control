@@ -1,3 +1,7 @@
+# Generate files
+./android_control/screenshot.png
+./android_control/screen_video.mp4
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
